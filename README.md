@@ -35,11 +35,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/fc96cbb4-2076-431f-ad9e-74aee655981a' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/a8b6d898-f3f1-474d-b010-c179f614515d' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/54845df6-275d-4b3b-b03d-c28d26d87d4e' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/a58d04ab-a8f8-4af7-9684-5aa9b3e881b5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/b056014e-2710-497c-885e-bfbb05b495f3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/user-attachments/assets/e713e323-7cba-4628-ac3f-360b67a1c7e2' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ... 👉🏿 GIF tool here
+GIF created with GIPHY
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -50,9 +55,11 @@ GIF created with ... 👉🏿 GIF tool here
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
 
+Fixing some issues with the API calls with supabase and dealing with the UI/UX css
+
 ## License
 
-Copyright [👉🏿 yyyy] [👉🏿 name of copyright owner]
+Copyright [EMLDEV] [Enmanuelle Martinez]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
