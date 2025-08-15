@@ -1,0 +1,103 @@
+.card {
+  background: #111827;
+  border: 1px solid #263241;
+  border-radius: 14px;
+  overflow: hidden;
+  width: 100%;
+  max-width: 560px;
+}
+
+.card-img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border-bottom: 1px solid #263241;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+.card-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.card-title {
+  margin: 0 0 8px;
+  text-transform: uppercase;
+  color: var(--brand-2);
+  font-size: 1.5rem;
+}
+
+.card-description {
+  color: #9aa7b5;
+  margin: 10px 0 14px;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 1.05rem;
+}
+
+.socials {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+.socials .social-icon {
+  font-size: 0;
+  line-height: 1;
+}
+.socials .social-icon svg {
+  width: 36px;
+  height: 36px;
+  display: block;
+}
+.socials .social-icon.disabled {
+  opacity: 0.3;
+  pointer-events: none;
+}
+.socials.icons .social-icon svg {
+  width: 32px;
+  height: 32px;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+}
+
+.card-btn {
+  background: #1f2937;
+  border: 1px solid #263241;
+}
+
+.actions-icons {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid #263241;
+  color: #e5e7eb;
+}
+.icon-btn svg {
+  width: 18px;
+  height: 18px;
+}
+
+.visit {
+  color: var(--brand-2);
+}
